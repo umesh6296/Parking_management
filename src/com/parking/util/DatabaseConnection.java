@@ -1,4 +1,4 @@
-package MySQLConnection;
+package com.parking.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
